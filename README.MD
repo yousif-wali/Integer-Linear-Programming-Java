@@ -1,11 +1,9 @@
 <h1>Requirements:</h1>
 
 <code>
-<pre>
-<dependency>
-    <groupId>com.google.ortools</groupId>
-    <artifactId>ortools-java</artifactId>
-    <version>YOUR_ORTOOLS_VERSION</version>
-</dependency>
-</pre>
+&lt;dependency&gt;
+    &lt;groupId&gt;com.google.ortools&lt;/groupId&gt;
+    &lt;artifactId&gt;ortools-java&lt;/artifactId&gt;
+    &lt;version&gt;YOUR_ORTOOLS_VERSION&lt;/version&gt;
+&lt;/dependency&gt;
 </code>
